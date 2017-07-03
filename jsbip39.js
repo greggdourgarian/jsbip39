@@ -215,7 +215,7 @@ var Mnemonic = function(language) {
     init();
 
 }
-
+var m=new Mnemonic('chinese')
 
 // Polyfill for NFKD normalization
 // See https://github.com/walling/unorm
